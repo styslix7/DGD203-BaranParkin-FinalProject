@@ -1,4 +1,4 @@
-# DGD203-BaranParkin-MidTerm
+# DGD203-BaranParkin-FinalProject
 
 Repo created by Baran Parkın 2305041025 for Finals for lecture of DGD203 - Game Programming 1.
 
