@@ -2,8 +2,6 @@
 
 Repo created by Baran Parkın 2305041025 for Finals for lecture of DGD203 - Game Programming 1.
 
-**Description**: ...
-
 [General Unity Engine repository](https://github.com/styslix7/Unity-Repo)
 
 [General C# repository](https://github.com/styslix7/CSharp-Repo)
